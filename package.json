@@ -1,0 +1,19 @@
+{
+  "name": "proyectofreedcocamp",
+  "version": "0.0.1",
+  "description": "proyecto de practicas backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milfer0516/test-freedCoCamp.git"
+  },
+  "author": "Milfer Muñoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milfer0516/test-freedCoCamp/issues"
+  },
+  "homepage": "https://github.com/milfer0516/test-freedCoCamp#readme"
+}
